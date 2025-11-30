@@ -10,6 +10,8 @@ API simples para gerenciar pedidos (CRUD) com mapeamento do JSON de entrada para
 - `PUT /order/:id` - Atualizar pedido por orderId (opcional)
 - `DELETE /order/:id` - Deletar pedido por orderId (opcional)
 
+![Criar Pedido](./docs/print_do_resultado.png)
+
 ### Formato de entrada (exemplo)
 ```json
 {
@@ -26,5 +28,5 @@ API simples para gerenciar pedidos (CRUD) com mapeamento do JSON de entrada para
 }
 
 
-![Criar Pedido](./docs/print_do_resultado.png)
+
 
